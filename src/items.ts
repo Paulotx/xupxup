@@ -167,6 +167,34 @@ const cream = [
         quantity: 0,
         uri: 'https://i.imgur.com/rtaxYkB.jpg',
     },
+    {
+        id: '25',
+        flavor: 'Limão Trufado',
+        price: 4.5,
+        quantity: 0,
+        uri: 'https://i.imgur.com/jvPxrPA.png',
+    },
+    {
+        id: '26',
+        flavor: 'Maracujá Trufado',
+        price: 4.5,
+        quantity: 0,
+        uri: 'https://i.imgur.com/jvPxrPA.png',
+    },
+    {
+        id: '27',
+        flavor: 'Morango Trufado',
+        price: 4.5,
+        quantity: 0,
+        uri: 'https://i.imgur.com/jvPxrPA.png',
+    },
+    {
+        id: '28',
+        flavor: 'Ninho Trufado',
+        price: 4.5,
+        quantity: 0,
+        uri: 'https://i.imgur.com/jvPxrPA.png',
+    },
 ];
 
 export default cream;
